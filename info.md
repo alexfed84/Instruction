@@ -10,3 +10,5 @@ git congig --global user.email почта
 ## ДОбавление изменений
 Для того что бы начать отслеживать файл с именем file_name:
 > git add file_name
+И что бы зафиксировать все файлы, которые мы отслеживаем:
+> git commit -m "some message"
